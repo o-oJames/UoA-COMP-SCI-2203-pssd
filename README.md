@@ -10,92 +10,92 @@ Topcoder practice tutorials can be found on:<br />
 * (\*\*) basic practice 
 * (\*\*\*) intermediate practice, sometimes tricky 
 * (\*\*\*\*) advance/competition level
-### week 1
-* Inchworm (\*)
-* ThrowTheBall (\*)
-* StreetParking (\*)
-* CircularLine (\*)
-* AzimuthMonitoring (\*)
-* EggCartons (\*\*)
-* PartySeats (\*\*)
-* DownloadingFiles (\*\*\*)
+### week 1 
+* Inchworm (\*) done
+* ThrowTheBall (\*) done
+* StreetParking (\*) done
+* CircularLine (\*) done
+* AzimuthMonitoring (\*) done
+* EggCartons (\*\*) done
+* PartySeats (\*\*) done
+* DownloadingFiles (\*\*\*) done
 ### week 2
-* ChangingString (\*)
-* MooingCows (\*)
-* SquareOfDigits (\*)
-* Reppity (\*\*)
-* BlackAndRed (\*\*)
-* FibonacciDiv2(\*\*)
-* DerivativeSequence(\*\*)
-* AlternateColors (\*\*)
-* ChristmasTree (\*\*\*)
-* ElevatorLimit (\*\*\*)
+* ChangingString (\*)done
+* MooingCows (\*)done
+* SquareOfDigits (\*)done
+* Reppity (\*\*)done
+* BlackAndRed (\*\*)done
+* FibonacciDiv2(\*\*)done
+* DerivativeSequence(\*\*)done
+* AlternateColors (\*\*)done
+* ChristmasTree (\*\*\*)done
+* ElevatorLimit (\*\*\*)done
 ### week 3
-* Truckloads (\*)
-* Arrows (\*)
-* FracCount (\*\*)
-* StrangeComputer (\*\*)
-* ExerciseMachine (\*\*)
-* QuickSums (\*\*\*)       BONUS PROBLEM FOR WEEK3 submission 
-* SimpleCompressor (\*\*\*)
-* FewestFactors (\*\*\*)
+* Truckloads (\*) done
+* Arrows (\*) done
+* FracCount (\*\*) done
+* StrangeComputer (\*\*) done
+* ExerciseMachine (\*\*) done
+* QuickSums (\*\*\*) not done
+* SimpleCompressor (\*\*\*) done
+* FewestFactors (\*\*\*) done
 ### week 4
-* MagicSpell (\*)
-* RugSizes (\*)
-* ImportantTasks (\*\*)
-* TimeTravellingCellar (\*\*)
-* FriendlySequences (\*\*\*)
-* PaternityTest (\*\*\*)
-* UnsealtheSafe (\*\*\*)
-* MonstersValley2 (\*\*\*)    BONUS PROBLEM FOR WEEK4 submission
+* MagicSpell (\*) done
+* RugSizes (\*) done
+* ImportantTasks (\*\*) done
+* TimeTravellingCellar (\*\*) done
+* FriendlySequences (\*\*\*) done
+* PaternityTest (\*\*\*) done
+* UnsealtheSafe (\*\*\*) done
+* MonstersValley2 (\*\*\*) done
 ### week 5
-* Multiples (\*)
-* Barbecue (\*)
-* RunLengthEncoding (\*\*)
-* SimpleDuplicateRemover (\*\*\*)
-* RGBStreet (\*\*\*)             BONUS PROBLEM for Week5 
-* NumberSplit (\*\*\*)
-* HouseBuilding (\*\*\*\*)
-* TomekPhone (\*\*\*\*)
+* Multiples (\*) done
+* Barbecue (\*) done
+* RunLengthEncoding (\*\*) done
+* SimpleDuplicateRemover (\*\*\*) not done
+* RGBStreet (\*\*\*) done
+* NumberSplit (\*\*\*) not done
+* HouseBuilding (\*\*\*\*) not done
+* TomekPhone (\*\*\*\*) done
 ### week 6
-* GoodHours (\*\*)
-* BlackAndWhiteSolitaire (\*\*)
-* CountExpressions (\*\**\)
-* ColorfulRabbits (\*\*\*)
-* ForestGarbage (\*\*\*\*)
-* NiceOrUgly (\*\*\*\*)            BONUS Problem Week 6 
-* JumpyNum (\*\*\*\*\*)
-* BerryPacker(\*\*\*\*\*\*)        warning - very challenging 
+* GoodHours (\*\*) done
+* BlackAndWhiteSolitaire (\*\*) done
+* CountExpressions (\*\*\*) not done
+* ColorfulRabbits (\*\*\*) not done
+* ForestGarbage (\*\*\*\*) not done
+* NiceOrUgly (\*\*\*\*) done
+* JumpyNum (\*\*\*\*\*) not done
+* BerryPacker(\*\*\*\*\*\*) not done	warning - very challenging 
 ### week 7
-* LotteryTicket (\*\*)
-* MinimalDifference (\*\*)
-* VeryInterestingMovie (\*\*\*)
-* FairWorkload (\*\*\*)
-* LostParentheses (\*\*\*\*)
-* PrefixFreeSets (\*\*\*\*)                    BONUS problem week 7 
-* TaliluluCoffee(\*\*\*\*)
-* ShipBoxes (\*\*\*\*\*)
+* LotteryTicket (\*\*) not done
+* MinimalDifference (\*\*) not done
+* VeryInterestingMovie (\*\*\*) not done
+* FairWorkload (\*\*\*) not done
+* LostParentheses (\*\*\*\*) not done
+* PrefixFreeSets (\*\*\*\*) done
+* TaliluluCoffee(\*\*\*\*) not done
+* ShipBoxes (\*\*\*\*\*) not done
 ### week 8
-* Thimbles (\*\*)
-* MatchNumbersEasy  (\*\*\*)
-* HandsShaking (\*\*\*)                BONUS Problem week 8  
-* RockStar (\*\*\*)
-* ProblemsToSolve  (\*\*\*\*)
-* CorporationSalary (\*\*\*\*) 
-* FillBox (\*\*\*\*\*)
+* Thimbles (\*\*) not done
+* MatchNumbersEasy  (\*\*\*) not done
+* HandsShaking (\*\*\*) done
+* RockStar (\*\*\*) not done
+* ProblemsToSolve  (\*\*\*\*) not done
+* CorporationSalary (\*\*\*\*) not done
+* FillBox (\*\*\*\*\*) not done
 ### week 9
-* CatGame (\*\*\*) 
-* CellRemoval (\*\*\*) 
-* CubeStickers (\*\*\*)  
-* ErdosNumber (\*\*\*\*)          Bonus Problem - this is a Graph Problem 
-* SentenceDecomposition (\*\*\*\*) 
-* RoughStrings (\*\*\*\*) 
-* LightSwitches (\*\*\*\*\*)
+* CatGame (\*\*\*) not done
+* CellRemoval (\*\*\*) not done
+* CubeStickers (\*\*\*) not done
+* ErdosNumber (\*\*\*\*) done
+* SentenceDecomposition (\*\*\*\*) not done
+* RoughStrings (\*\*\*\*) not done
+* LightSwitches (\*\*\*\*\*) not done
 ### week 10
-* DifferentStrings (\*\*) 
-* BigBurger (\*\*\*) 
-* BridgeSort (\*\*\*) 
-* BlockEnemy(\*\*\*\*)                   Bonus Problem for week 10
-* FoxAndMountainEasy (\*\*\*\*) 
-* DengklekBuildingRoads(\*\*\*\*\*) 
-* TrafficMonitor (\*\*\*\*\*)
+* DifferentStrings (\*\*) not done
+* BigBurger (\*\*\*) not done
+* BridgeSort (\*\*\*) not done
+* BlockEnemy(\*\*\*\*) not done		Bonus Problem for week 10
+* FoxAndMountainEasy (\*\*\*\*) not done
+* DengklekBuildingRoads(\*\*\*\*\*) not done
+* TrafficMonitor (\*\*\*\*\*) not done
