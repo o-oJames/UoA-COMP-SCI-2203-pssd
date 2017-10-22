@@ -1,0 +1,6 @@
+BlackAndWhiteSolitaire (**)
+CountExpressions (***)
+ColorfulRabbits (***)
+ForestGarbage (****)
+JumpyNum (*****)
+BerryPacker(******)        warning - very challenging 

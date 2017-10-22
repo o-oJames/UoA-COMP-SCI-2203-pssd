@@ -1,0 +1,7 @@
+LotteryTicket (**)
+MinimalDifference (**)
+VeryInterestingMovie (***)
+FairWorkload (***)
+LostParentheses (****)
+TaliluluCoffee(****)
+ShipBoxes (*****)

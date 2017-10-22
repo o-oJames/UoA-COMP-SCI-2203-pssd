@@ -1,0 +1,6 @@
+CatGame (***) 
+CellRemoval (***) 
+CubeStickers (***)
+SentenceDecomposition (****) 
+RoughStrings (****) 
+LightSwitches (*****)
