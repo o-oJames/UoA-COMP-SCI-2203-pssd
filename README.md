@@ -65,7 +65,7 @@ Topcoder practice tutorials can be found on:<br />
 * ForestGarbage (\*\*\*\*) not done
 * NiceOrUgly (\*\*\*\*) done
 * JumpyNum (\*\*\*\*\*) not done
-* BerryPacker(\*\*\*\*\*\*) not done	warning - very challenging 
+* BerryPacker(\*\*\*\*\*\*) not done
 ### week 7
 * LotteryTicket (\*\*) not done
 * MinimalDifference (\*\*) not done
@@ -95,7 +95,7 @@ Topcoder practice tutorials can be found on:<br />
 * DifferentStrings (\*\*) not done
 * BigBurger (\*\*\*) not done
 * BridgeSort (\*\*\*) not done
-* BlockEnemy(\*\*\*\*) not done		Bonus Problem for week 10
+* BlockEnemy(\*\*\*\*) not done
 * FoxAndMountainEasy (\*\*\*\*) not done
 * DengklekBuildingRoads(\*\*\*\*\*) not done
 * TrafficMonitor (\*\*\*\*\*) not done
