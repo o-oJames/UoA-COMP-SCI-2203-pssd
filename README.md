@@ -20,16 +20,16 @@ Topcoder practice tutorials can be found on:<br />
 * PartySeats (\*\*) done
 * DownloadingFiles (\*\*\*) done
 ### week 2
-* ChangingString (\*)done
-* MooingCows (\*)done
-* SquareOfDigits (\*)done
-* Reppity (\*\*)done
-* BlackAndRed (\*\*)done
-* FibonacciDiv2(\*\*)done
-* DerivativeSequence(\*\*)done
-* AlternateColors (\*\*)done
-* ChristmasTree (\*\*\*)done
-* ElevatorLimit (\*\*\*)done
+* ChangingString (\*) done
+* MooingCows (\*) done
+* SquareOfDigits (\*) done
+* Reppity (\*\*) done
+* BlackAndRed (\*\*) done
+* FibonacciDiv2(\*\*) done
+* DerivativeSequence(\*\*) done
+* AlternateColors (\*\*) done
+* ChristmasTree (\*\*\*) done
+* ElevatorLimit (\*\*\*) done
 ### week 3
 * Truckloads (\*) done
 * Arrows (\*) done
